@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {pl.sgjp/jmorfeusz {:mvn/version "0.1.0-SNAPSHOT"}
+        aysylu/loom {:mvn/version "1.0.2"}
+        clj-concraft/clj-concraft {:local/root "../clj-concraft"}}}
